@@ -1,3 +1,3 @@
 # Docker
 
-![alt text](https://github.com/Umaraul/Docker/blob/main/Cluster running.jpg?raw=true)
+![alt text]https://github.com/Umaraul/Docker/blob/main/CourseProject/Cluster%20running.PNG
