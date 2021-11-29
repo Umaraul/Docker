@@ -2,6 +2,7 @@
 proxy:
   service:
     loadBalancerIP: 34.73.91.84
+  secretToken: 3f0592abddebd91c9e805c91977a9a5d59479ac6c533994f8d08d34bc39258c1
 singleuser:
   image:
     name: jupyter/minimal-notebook
