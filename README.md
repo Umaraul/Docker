@@ -37,6 +37,8 @@ chmod +x app.sh
 8. Finally, this will run all kubectl files and provide a driver link where the applications can be run
 ./app.sh
 
+Made the GUI using an html file!
+
 Link for Code: https://drive.google.com/file/d/1R9VgySPk05-pIgwpW5lgxD3rBauN5tN6/view?usp=sharing
 
 Link for Application: https://drive.google.com/file/d/1JdXKAZxP5olZBweBon__GUrlcYH20FNj/view?usp=sharing
